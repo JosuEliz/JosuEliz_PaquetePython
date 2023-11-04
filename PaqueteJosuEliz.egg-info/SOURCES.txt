@@ -1,0 +1,12 @@
+LICENSE.txt
+README.txt
+setup.py
+PaqueteJosuEliz/__init__.py
+PaqueteJosuEliz/norm_estand_class.py
+PaqueteJosuEliz.egg-info/PKG-INFO
+PaqueteJosuEliz.egg-info/SOURCES.txt
+PaqueteJosuEliz.egg-info/dependency_links.txt
+PaqueteJosuEliz.egg-info/requires.txt
+PaqueteJosuEliz.egg-info/top_level.txt
+PaqueteJosuEliz/test/__init_.py
+PaqueteJosuEliz/test/test_all.py

@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: PaqueteJosuEliz
+Version: 1.0.0
+Summary: Este paquete es un paquete para complementar la entrega basica de Software Matematico y Estadistico
+Home-page: GITHUB-eko linka
+Author: Josu Elizburu
+Author-email: jelizburu001@ikasle.ehu.eus
+License: LICENSE.txt
+License-File: LICENSE.txt
+Requires-Dist: numpy>=1.23.3
+
+Quick Start Guide
+-----------------
+
+This is a readme file of my submission for the Lecture Software Matematico y estadistico.
